@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: VPR Application
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: USER
+Implementation-Vendor-Id: com.vpr
+Build-Jdk: 1.8.0_05
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/VprApplications
+Created-By: Maven Integration for Eclipse
+
